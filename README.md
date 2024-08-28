@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alex Bondarkov
+- 👀 I’m interested in learning cool new things, creating interesting projects, immersion in the python language, web development.
+- 💞️ I’m looking to collaborate on development of bots, business applications, development of production solutions.
+- 📫 How to reach me on telegram: https://t.me/Alex_Bondarkov
